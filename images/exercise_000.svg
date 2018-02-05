@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="222.5 65.5 730 515.5" width="730pt" height="515.5pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="222.5 76 478.5 505" width="478.5pt" height="505pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.6.1 
-    <dc:date>2018-02-05 10:53:45 +0000</dc:date>
+    <dc:date>2018-02-05 10:14:27 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
@@ -27,19 +27,19 @@
     </font-face>
   </defs>
   <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
-    <title>Stage 2</title>
-    <rect fill="white" width="730" height="515.5"/>
+    <title>Canvas 1</title>
+    <rect fill="white" width="478.5" height="505"/>
     <g>
       <title>Layer 1</title>
       <rect x="377.5" y="76.5" width="170" height="55" fill="white"/>
       <rect x="377.5" y="76.5" width="170" height="55" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(382.5 96.832)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x="66.446" y="11">/user</tspan>
+        <tspan font-family="Helvetica Neue" font-size="12" font-weight="500" fill="black" x="66.446" y="11">/user</tspan>
       </text>
       <rect x="223" y="366.5" width="170" height="46.165803" fill="white"/>
       <rect x="223" y="366.5" width="170" height="46.165803" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(228 383.4289)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="11" font-weight="500" x="22.9595" y="10">/BoundedMailboxActor</tspan>
+        <tspan font-family="Helvetica Neue" font-size="11" font-weight="500" fill="black" x="22.9595" y="10">/BoundedMailboxActor</tspan>
       </text>
       <rect x="530.5" y="366.5" width="170" height="46.165803" fill="white"/>
       <rect x="530.5" y="366.5" width="170" height="46.165803" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -57,44 +57,26 @@
       <path d="M 377.5 200.87992 C 228.67686 212.73039 251.8597 323.91938 262.22535 357.159" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 236.62844 305.65082 L 264.69612 213.84556 L 289.56005 221.44723 L 261.49236 313.2525 Z" fill="white"/>
       <text transform="translate(257.69455 220.23513) rotate(73)" fill="black">
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x=".265" y="11">BmbMessage1/2</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x=".265" y="11">BmbMessage1/2</tspan>
       </text>
-      <path d="M 308 366.5 C 685.4688 295.42666 807.2614 163.12627 833.0172 129.12968" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <path d="M 580.81576 279.26497 L 633.8446 253.40108 L 645.2423 276.76972 L 592.2134 302.63362 Z" fill="white"/>
-      <text transform="translate(594.29634 260.5363) rotate(26)" fill="black">
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x=".047" y="11">R</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="6.504" y="11">esponse</tspan>
+      <path d="M 308 366.5 C 292.9496 306.5771 342.68426 262.8116 389.65514 235.80976" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 289.9642 338.92936 L 307.2141 282.50738 L 332.07804 290.10904 L 314.8281 346.53102 Z" fill="white"/>
+      <text transform="translate(311.0303 288.89695) rotate(73)" fill="black">
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x=".047" y="11">R</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x="6.504" y="11">esponse</tspan>
       </text>
       <rect x="243" y="555" width="439" height="25.5" fill="white"/>
       <rect x="243" y="555" width="439" height="25.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(248 561.596)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="11" font-weight="500" x="191.07" y="10">EventBus</tspan>
+        <tspan font-family="Helvetica Neue" font-size="11" font-weight="500" fill="black" x="191.07" y="10">EventBus</tspan>
       </text>
       <path d="M 535.66667 555 C 575.9909 528.84375 577.4696 450.3513 576.66494 422.5554" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <rect x="491.771" y="477.9426" width="159" height="26" fill="white"/>
       <text transform="translate(496.771 483.4426)" fill="black">
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x=".349" y="11">De</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="14.902" y="11">adL</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="33.195" y="11">et</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="42.842" y="11">ter(BmbMessage1/2)</tspan>
-      </text>
-      <rect x="782" y="66" width="170" height="55" fill="#cbf3bf"/>
-      <rect x="782" y="66" width="170" height="55" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(787 86.332)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x="66.884" y="11">Main</tspan>
-      </text>
-      <path d="M 782 93.5 C 661.28104 106.74597 570.1068 143.91772 516.6622 171.4025" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <path d="M 597.75766 118.97158 L 690.90605 95.74708 L 697.196 120.97477 L 604.0476 144.19927 Z" fill="white"/>
-      <text transform="translate(607.5685 102.29332) rotate(14)" fill="black">
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x=".265" y="11">BmbMessage1/2</tspan>
-      </text>
-      <path d="M 658 366.5 C 826.03555 299.6287 880.3903 166.97449 892.48 130.48266" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <path d="M 747.5571 300.3184 L 826.3582 238.75225 L 842.3654 259.24053 L 763.5643 320.80667 Z" fill="white"/>
-      <text transform="translate(764.11825 246.1646) rotate(38)" fill="black">
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x=".0045" y="11">F</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="5.6585" y="11">ailur</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="27.2075" y="11">e(Ex</tspan>
-        <tspan font-family="Avenir Next" font-size="11" font-weight="500" x="48.5695" y="11">ception)</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x=".349" y="11">De</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x="14.902" y="11">adL</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x="33.195" y="11">et</tspan>
+        <tspan font-family="Avenir Next" font-size="11" font-weight="500" fill="black" x="42.842" y="11">ter(BmbMessage1/2)</tspan>
       </text>
     </g>
   </g>
